@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26644942666",
+    "project_id": "pasele-trini-app",
+    "storage_bucket": "pasele-trini-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26644942666:android:dd6d0a49ef7e9dfa16bbb3",
+        "android_client_info": {
+          "package_name": "com.example.pasele_trini_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnFVkHUbt90GjCZnIGftzKbVa5doNncM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
